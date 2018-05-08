@@ -5,9 +5,9 @@ var qs = require('querystring');
 
 var con = mysql.createConnection({
 	host: "localhost",
-   	user: "siosolutions",
-   	password: "F,6KO8t4ky",
-   	database: " siosolutions_todolist"
+   	user: "your domain name",
+   	password: "your database password",
+   	database: "your database"
 });
 
 
